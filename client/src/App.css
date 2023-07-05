@@ -1,0 +1,26 @@
+.container1{
+  padding: 20px;
+}
+form{
+  display: flex;
+  gap: 30px;
+}
+input{
+  padding: 5px;
+}
+.input-group-text{
+  width: 50px;
+
+}
+
+.text-input{
+  display: flex;
+}
+.table-1{
+  margin-top: 50px;
+}
+
+.content-input{
+  outline: none;
+  border: none;
+}
